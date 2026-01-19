@@ -24,6 +24,6 @@
     
   </dependencies>
   <build>
-    <finalName>myapp</finalName>
+    <finalName>MyNewApp</finalName>
   </build>
 </project>
