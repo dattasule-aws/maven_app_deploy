@@ -4,6 +4,6 @@
   <title>My Web App</title>
 </head>
 <body>
-  <h3>Sample Web Application built using Maven Round II </h3>
+  <h3>Sample Web Application is to see the CICD pipeline </h3>
 </body>
 </html>
