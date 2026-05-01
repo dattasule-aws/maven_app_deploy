@@ -4,6 +4,6 @@
   <title>My Web App</title>
 </head>
 <body>
-  <h3>Sample Web Application built using Maven Round II </h3>
+  <h3> Never Out Of The Fights </h3>
 </body>
 </html>
